@@ -1,0 +1,7 @@
+# Site settings
+title: 17 loves dota
+description: Xia and Dan love 17.
+keywords: 
+author: Xia
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
