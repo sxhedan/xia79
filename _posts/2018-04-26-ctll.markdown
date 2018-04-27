@@ -3,7 +3,7 @@ title:  "春天来啦"
 subtitle: ""
 author: "Xia"
 avatar: "img/authors/xia.png"
-image: "img/20180426.jpg"
+image: "img/img_20180426.JPG"
 date:   2018-04-26
 ---
 
